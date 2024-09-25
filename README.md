@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! I'm Arnav Angarkar 👋</h1>
 
 <p align="center">
-    I'm a software developer and student from India 🇮🇳 <br>
+    I'm a software developer and student from India (Indian Institute of Information Technology Dharwad ) 🇮🇳 <br>
     Focused on creating impactful solutions using AI, ML, and full-stack development 💡
 </p>
 
