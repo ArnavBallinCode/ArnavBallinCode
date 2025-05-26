@@ -39,9 +39,6 @@
 - 📦 **[CampusDabba](https://github.com/ArnavBallinCode/CampusDabba_Final)**  
   A dynamic community-based platform connecting students and professionals. Includes a robust TypeScript + Firebase stack with modular architecture and blazing-fast UI.
 
-- ✈️ **[IROC Drone Web Interface](https://github.com/ArnavBallinCode/IROC_WEB_INTERFACE)**  
-  Live monitoring & control panel for UAVs using Jetson + MAVROS + Pixhawk. Features real-time MAVLink integration and sleek custom UI.
-
 - 🧠 **IISc GOK-DULT AI Projects (Private)**  
   Collaborated with IISc for AI-based urban analytics. Focus areas included object detection, image segmentation, and data pipelines for civic insights.
 
