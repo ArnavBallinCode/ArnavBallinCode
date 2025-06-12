@@ -30,22 +30,38 @@
 ![MAVLink](https://img.shields.io/badge/-MAVLink-00599C?style=flat-square&logo=protobuf&logoColor=white)
 
 ---
-
 ### 🚀 Featured Projects
 
-- 🔥 **[Drone Dashboard – Web_Interface_909](https://github.com/ArnavBallinCode/Web_Interface_909)**  
-  A real-time telemetry dashboard for MAVLink-based drones. Built with React, Flask, and TypeScript for seamless telemetry visualization from Pixhawk/Jetson systems.
+- 🔥 **[SkySync_Gcs](https://github.com/ArnavBallinCode/SkySync_Gcs)**  
+  Advanced Ground Control Station software architected for real-time high-frequency telemetry processing and UAV fleet management. Currently driving evolution toward AI-enhanced autonomous flight monitoring and adaptive control frameworks.
 
 - 📦 **[CampusDabba](https://github.com/ArnavBallinCode/CampusDabba_Final)**  
-  A dynamic community-based platform connecting students and professionals. Includes a robust TypeScript + Firebase stack with modular architecture and blazing-fast UI.
+  Scalable community platform connecting students and professionals with a robust TypeScript and Firebase backend. Strategically evolving to incorporate hybrid user ecosystems and AI-powered engagement modules.
 
-- 🧠 **IISc GOK-DULT AI Projects (Private)**  
-  Collaborated with IISc for AI-based urban analytics. Focus areas included object detection, image segmentation, and data pipelines for civic insights.
+- 🤖 **[Cerebrum.ai](https://github.com/ArnavBallinCode/Cerebrum.ai)**  
+  An AI-first platform focused on intelligent automation and cognitive computing solutions that empower dynamic decision-making across diverse workflows.
 
-- 🎯 **[Binary Classifier AI](https://github.com/ArnavBallinCode/Binary_classifier)**  
-  Streamlit-powered ML web app to classify mushrooms using SVM, Random Forest, and Logistic Regression. Simple UI, powerful backend.
+- 💬 **[Quickchat](https://github.com/ArnavBallinCode/Quickchat)**  
+  Conversational AI assistant leveraging NLP to streamline user interactions, optimize customer engagement, and provide scalable chat automation solutions.
 
----
+- 👗 **[VITON Live](https://github.com/ArnavBallinCode/VITON-live)**  
+  Real-time virtual try-on system integrating pose estimation and garment segmentation to deliver immersive, accurate user experiences in fashion e-commerce.
+
+- 🖼️ **[VITON Static](https://github.com/ArnavBallinCode/VITON-static)**  
+  Static image-based virtual try-on framework enabling high-fidelity garment fitting using advanced image warping and segmentation algorithms.
+
+- 🎁 **[Personalized-Gift-Recommendation-AI](https://github.com/ArnavBallinCode/Personalized-Gift-Recommendation-AI)**  
+  AI-driven recommendation engine tailoring gift suggestions through user profiling and behavior analysis to maximize personalization and conversion.
+
+- 🚗 **[Number-Plate-Extractor](https://github.com/ArnavBallinCode/number-plate-extractor)**  
+  Robust computer vision pipeline designed for automatic vehicle license plate detection and character recognition, optimized for real-world conditions and diverse plate formats.
+
+- 🎯 **[Binary Classifier AI](https://github.com/ArnavBallinCode/binary_classifier)**  
+  Streamlit-powered ML app implementing SVM, Random Forest, and Logistic Regression for classification tasks, combining simplicity and interpretability.
+
+- 🖌️ **[ImageFilter Public](https://github.com/ArnavBallinCode/ImageFilter_Public)**  
+  BMPImageFilter is a performant C-based command-line utility applying a suite of image filters—grayscale, sepia, reflection, and more—enabling efficient image transformations for diverse workflows.
+--
 
 ### 📈 GitHub Stats
 
