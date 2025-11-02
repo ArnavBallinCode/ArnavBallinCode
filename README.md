@@ -3,12 +3,12 @@
 <p align="center">
   2nd year CSE Student at IIIT Dharwad.<br>
   Engineer by training, builder by passion.<br>
-  Currently trying to automate sleep (still in beta), blending machine learning, quantum logic, and just enough chaos to keep things interesting.
+  Currently figuring out how to make machines do the boring stuff — so I can focus on the weird and wonderful.
 </p>
 
 ---
 
-### 🛠️ Tech Toolbox
+### Tech Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
@@ -18,7 +18,14 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square\&logo=three.js\&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
@@ -39,5 +46,3 @@ Actively contributing to open source — fixing things that aren’t quite right
 
 * **Email**: [arnav.angarkar20@gmail.com](mailto:arnav.angarkar20@gmail.com)
 * **LinkedIn**: [in/arnav-angarkar](https://www.linkedin.com/in/arnav-angarkar)
-
-<p align="center"><i>"Building systems with impact – one commit at a time."</i></p>
