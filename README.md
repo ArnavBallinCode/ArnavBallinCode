@@ -38,7 +38,7 @@
 
 ### Open Source Journey
 
-Actively contributing to open source — fixing things that aren’t quite right, improving systems that can be better, and learning from the process. Every issue solved is a small step toward building something that truly works.
+Actively contributing to open source — fixing things that aren’t quite right, improving systems that can be better, and learning from the process.
 
 ---
 
