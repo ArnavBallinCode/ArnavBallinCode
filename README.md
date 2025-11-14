@@ -1,14 +1,16 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there,+Im+Arnav+Angarkar" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  2nd year CSE student at IIIT Dharwad.<br>
-  Engineer by training, builder by passion.<br>
-  Currently figuring out how to make machines do the boring stuff — so I can focus on the weird and wonderful.
-</p>
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Arnav+Angarkar;2nd+Year+CSE+Student+at+IIIT+Dharwad;Engineer+by+Training%2C+Builder+by+Passion" />
+
+  <!-- Static Tagline -->
+  <p style="font-size:18px; margin-top: 10px;">
+    Let machines do the boring stuff :) </br>
+    So I can focus on the weird and wonderful.
+  </p>
+
+
+</div>
 
 <p align="center">
   <b>Languages & Tools</b><br><br>
