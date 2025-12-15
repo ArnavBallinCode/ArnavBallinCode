@@ -25,7 +25,19 @@
 
   <!-- Drone/Robotics -->
   <img src="https://img.shields.io/badge/-MAVLink-00599C?style=flat-square&logo=protobuf&logoColor=white"/>
+  
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black"/>
 
+  <!-- AI Infra / LLMs -->
+  <img src="https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
   <!-- JS / TS Ecosystem -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
