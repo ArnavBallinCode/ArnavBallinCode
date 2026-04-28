@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Arnav+Angarkar;2nd+Year+CSE+Student+at+IIIT+Dharwad;Engineer+by+Training%2C+Builder+by+Passion" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=1500&color=36BCF7&center=true&vCenter=true&width=900&lines=i+build+stuff;it+works;mostly..." />
   <!-- Static Tagline -->
+  
   <p style="font-size:18px; margin-top: 10px;">
     I let machines do the boring stuff :) </br>
     So that I can focus on the weird and wonderful.
