@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=1500&color=36BCF7&center=true&vCenter=true&width=900&lines=i+build+stuff;it+works;mostly..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Arnav+Angarkar" />
   <!-- Static Tagline -->
   
   <p style="font-size:18px; margin-top: 10px;">
