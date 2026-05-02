@@ -1,8 +1,10 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Arnav+Angarkar" />
-  <!-- Static Tagline -->
+<!-- Animated Typing Header -->
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Arnav+Angarkar" />
+ 
+ <!-- Static Tagline -->
+ <h3 align="center"> Google Summer of Code 2026 Contributor @ FOSSASIA</h3>
   
   <p style="font-size:18px; margin-top: 10px;">
     I let machines do the boring stuff :) </br>
